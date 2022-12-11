@@ -1,5 +1,5 @@
 Feature: LaptopBDD
-
+#Emily comment
   Scenario: Laptop scenario b
     Given there is a LAPTOP
     When the user modifies LAPTOP
