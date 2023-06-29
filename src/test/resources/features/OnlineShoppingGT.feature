@@ -1,11 +1,12 @@
+# language: he
 #Auto generated Octane revision tag
-@BSPID32001REV0.5.0
+@BSPID32001REV0.6.0
 #Auto generated Octane revision tag
 
-Feature: OnlineShopping
+תכונה: OnlineShopping
 #Emily comment
 @TSCID2037121
-  Scenario: Emily2 OnlineShopping
-    Given   OnlineShopping  given
-    When   OnlineShopping  when
-    Then OnlineShopping then
+  תרחיש: Emily2 OnlineShopping
+    בהינתן   OnlineShopping  given
+    כאשר   OnlineShopping  when
+    אז OnlineShopping then
