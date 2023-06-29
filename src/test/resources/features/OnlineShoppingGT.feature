@@ -1,11 +1,11 @@
 #Auto generated Octane revision tag
-@BSPID32001REV0.2.0
+@BSPID32001REV0.3.0
 #Auto generated Octane revision tag
 
 Feature: OnlineShopping
 #Emily comment
 @TSCID2037121
-  Scenario: Emily OnlineShopping
+  Scenario: OnlineShopping
     Given   OnlineShopping  given
     When   OnlineShopping  when
     Then OnlineShopping then
