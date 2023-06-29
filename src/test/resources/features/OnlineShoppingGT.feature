@@ -5,7 +5,7 @@
 Feature: OnlineShopping
 #Emily comment
 @TSCID2037121
-  Scenario: Emily2 OnlineShopping
+  Scenario: Emily3 OnlineShopping
     Given   OnlineShopping  given
     When   OnlineShopping  when
     Then OnlineShopping then
