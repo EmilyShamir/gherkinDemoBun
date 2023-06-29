@@ -16,7 +16,7 @@
     כאשר   OnlineShopping  when
     אז OnlineShopping then
 @TSCID2039100
-      תרחיש: 
+      תרחיש: Emily10 OnlineShopping
     בהינתן   OnlineShopping  given
     כאשר   OnlineShopping  when
     אז OnlineShopping then
