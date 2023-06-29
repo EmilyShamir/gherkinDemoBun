@@ -10,3 +10,7 @@
     בהינתן   OnlineShopping  given
     כאשר   OnlineShopping  when
     אז OnlineShopping then
+      תרחיש: Emily11 scenario 
+    בהינתן   OnlineShopping  given
+    כאשר   OnlineShopping  when
+    אז OnlineShopping then
