@@ -1,9 +1,9 @@
 # language: he
 #Auto generated Octane revision tag
-@BSPID32001REV0.6.0
+@BSPID32001REV0.9.0
 #Auto generated Octane revision tag
 
-תכונה: OnlineShopping
+תכונה: Emily OnlineShopping
 #Emily comment
 @TSCID2037121
   תרחיש: Emily2 OnlineShopping
