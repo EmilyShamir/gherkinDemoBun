@@ -1,6 +1,6 @@
 # language: he
 #Auto generated Octane revision tag
-@BSPID32001REV0.12.0
+@BSPID32001REV0.12.1
 #Auto generated Octane revision tag
 
 תכונה: Emily OnlineShopping
@@ -15,4 +15,8 @@
     בהינתן   OnlineShopping  given
     כאשר   OnlineShopping  when
     אז OnlineShopping then
-
+@TSCID2037126
+ תרחיש: Emily14 OnlineShopping
+    בהינתן   OnlineShopping  given
+    כאשר   OnlineShopping  when
+    אז OnlineShopping then
