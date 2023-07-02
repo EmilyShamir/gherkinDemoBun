@@ -15,7 +15,4 @@
     בהינתן   OnlineShopping  given
     כאשר   OnlineShopping  when
     אז OnlineShopping then
-  תרחיש: Emily2 OnlineShopping
-    בהינתן   OnlineShopping  given
-    כאשר   OnlineShopping  when
-    אז OnlineShopping then
+
