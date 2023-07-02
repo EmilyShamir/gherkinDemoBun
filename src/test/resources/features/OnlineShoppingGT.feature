@@ -1,6 +1,6 @@
 # language: he
 #Auto generated Octane revision tag
-@BSPID32001REV0.11.0
+@BSPID32001REV0.12.0
 #Auto generated Octane revision tag
 
 תכונה: Emily OnlineShopping
