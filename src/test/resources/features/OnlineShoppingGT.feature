@@ -7,7 +7,7 @@
 #Emily comment
 
 @TSCID2057012
-  תרחיש: Emily5 OnlineShopping
+  תרחיש: Emily7 OnlineShopping
     בהינתן   OnlineShopping  given
     כאשר   OnlineShopping  when
     אז OnlineShopping then
