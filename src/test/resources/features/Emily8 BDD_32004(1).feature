@@ -6,7 +6,7 @@
 תכונה: Emily9 OnlineShopping
 #Emily comment
 @TSCID2038038
-  תרחיש: Emily11 scenario 
+  תרחיש: 
     בהינתן   OnlineShopping  given
     כאשר   OnlineShopping  when
     אז OnlineShopping then
