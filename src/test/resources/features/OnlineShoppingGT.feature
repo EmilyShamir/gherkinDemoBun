@@ -5,12 +5,12 @@
 
 תכונה: Emily OnlineShopping
 #Emily comment
-@TSCID2037121
+
   תרחיש: Emily2 OnlineShopping
     בהינתן   OnlineShopping  given
     כאשר   OnlineShopping  when
     אז OnlineShopping then
-@TSCID2039099
+    
       תרחיש: Emily4 OnlineShopping
     בהינתן   OnlineShopping  given
     כאשר   OnlineShopping  when
