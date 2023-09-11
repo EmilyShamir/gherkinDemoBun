@@ -7,7 +7,7 @@
 #Emily comment
 @TSCID2038038
   תרחיש: 
-    בהינתן   OnlineShopping  given
-    כאשר   OnlineShopping  when
-    אז OnlineShopping then
+    בהינתן   OnlineShopping1  given
+    כאשר   OnlineShopping1  when
+    אז OnlineShopping1 then
 
