@@ -1,5 +1,3 @@
-#Auto generated Octane revision tag
-@BSPID31001REV0.0.1
 Feature: LaptopBDD
 #Emily comment
   Scenario: Laptop scenario b
