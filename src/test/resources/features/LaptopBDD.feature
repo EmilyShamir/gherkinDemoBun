@@ -22,7 +22,7 @@ Feature: LaptopBDD
 
 
 @TSCID1025
-    Scenario: Laptop scenario e
+    Scenario Outline: Laptop scenario e
 		Given <param1> 
 		When  <param2>  
 		Then  <param3>  
