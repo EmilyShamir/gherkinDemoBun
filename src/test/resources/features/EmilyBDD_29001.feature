@@ -1,9 +1,4 @@
-#Auto generated Octane revision tag
-@TID2039094REV0.2.0
-#Auto generated Octane revision tag
-@BSPID29001REV0.2.0
-Feature: 
-@TSCID2013001
+Feature: feature
 	Scenario Outline: Emily3
 		Given <param1> 
 		When  <param2>  
