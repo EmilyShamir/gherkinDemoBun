@@ -31,5 +31,8 @@ Feature: LaptopBDD
 		| param1 | param2 | param3 |
 		| a      | 1      | 3      |
 		| b      | 2      | 4      |
+  		| c      | 11     | 12     |
+
+
 
   
