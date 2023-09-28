@@ -377,16 +377,6 @@ public void a() {
     
 }
 
-@When("{int}")
-public void (Integer int1) {
-   
-}
-
-@Then("{int}")
-public void (Integer int1) {
-    
-}
-
 @Given("b")
 public void b() {
     
@@ -397,8 +387,33 @@ public void c() {
     
 }
 
+    @When("1")
+public void 1() {
+    
+}
 
+        @When("2")
+public void 2() {
+    
+}
+        @When("11")
+public void 11() {
+    
+}
 
+        @Then("3")
+public void 3() {
+    
+}
+            @Then("4")
+public void 4() {
+    
+}
+            @Then("12")
+public void 12() {
+    
+}
+    
 }
 
 //    assertEquals(100, Calcs.sum(7, 7));
