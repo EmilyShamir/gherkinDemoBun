@@ -1,4 +1,3 @@
-@exclude
 # language: he
 תכונה: Emily9 OnlineShopping
 #Emily comment
