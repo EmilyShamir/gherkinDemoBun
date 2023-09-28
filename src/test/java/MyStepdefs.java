@@ -372,6 +372,31 @@ public class MyStepdefs {
     public void onlineshoppingThen() {
     }
 
+    @Given("a")
+public void a() {
+    
+}
+
+@When("{int}")
+public void (Integer int1) {
+   
+}
+
+@Then("{int}")
+public void (Integer int1) {
+    
+}
+
+@Given("b")
+public void b() {
+    
+}
+
+@Given("c")
+public void c() {
+    
+}
+
 
 
 }
