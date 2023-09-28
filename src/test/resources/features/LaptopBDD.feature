@@ -14,4 +14,15 @@ Feature: LaptopBDD
         Given there is a KEYBOARD
         When the user modifies the KEYBOARD
         Then the KEYBOARD is modified
+   
+    Scenario Outline: Laptop scenario e
+                              Given <param1> 
+                              When  <param2>  
+                              Then  <param3>  
+
+               Examples:
+                              | param1 | param2 | param3 |
+                              | a      | 1      | 3      | (4)
+                              | b      | 2      | 4      | (5)
+                              | c      | 11     | 12     | (6)
 
