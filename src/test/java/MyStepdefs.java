@@ -387,6 +387,16 @@ public void c() {
     
 }
 
+    @When("{int}")
+public void int1(Integer int1) {
+
+}
+
+@Then("{int}")
+public void int2(Integer int2) {
+
+}
+
 
     
 }
