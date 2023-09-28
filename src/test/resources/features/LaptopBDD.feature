@@ -22,7 +22,7 @@ Feature: LaptopBDD
 
                Examples:
                               | param1 | param2 | param3 |
-                              | a      | 1      | 3      | (4)
-                              | b      | 2      | 4      | (5)
-                              | c      | 11     | 12     | (6)
+                              | a      | 1      | 3      | 
+                              | b      | 2      | 4      | 
+                              | c      | 11     | 12     | 
 
