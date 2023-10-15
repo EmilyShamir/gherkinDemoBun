@@ -2,9 +2,10 @@
 Feature: Yael f
 Scenario Outline: Many users buy items in their carts.
 
-But uuuuuuuu
+
 
 Given a customer named "<customer>"
+But uuuuuuuu
 
 Given I am logged in as "<customer>"
 
