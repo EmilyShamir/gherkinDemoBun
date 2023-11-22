@@ -2,7 +2,7 @@
 @BSPID31012REV0.3.0
 Feature: 
 @TSCID2165254
-	Scenario Outline: Emily Scenario Outline
+	Scenario Outline: Emily Scenario Outline1
 		Given <param1> 
 		When  <param2>  
 		Then  <param3>  
