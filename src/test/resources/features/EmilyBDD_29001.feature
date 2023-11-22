@@ -1,6 +1,6 @@
 @exclude
 Feature: feature
-	Scenario Outline: Emily3
+	Scenario Outline: Emily4
 		Given <param1> 
 		When  <param2>  
 		Then  <param3>  
