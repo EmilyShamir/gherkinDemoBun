@@ -1,5 +1,7 @@
+#Auto generated Octane revision tag
+@TID2242004REV0.0.2
 Feature: LaptopBDD
-#Emily comment2
+#Emily comment3
   Scenario: Laptop scenario b
     Given there is a LAPTOP
     When the user modifies LAPTOP
