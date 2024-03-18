@@ -17,7 +17,7 @@ Feature: LaptopBDD
         When the user modifies the KEYBOARD
         Then the KEYBOARD is modified
    
-    Scenario Outline: Laptop scenario e <param1>
+    Scenario Outline: Laptop scenario e param1
                               Given <param1> 
                               When  <param2>  
                               Then  <param3>  
