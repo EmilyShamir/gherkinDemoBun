@@ -1,3 +1,4 @@
+@exclude
 Feature: 
 	Scenario Outline: Emily Scenario Outline1
 		Given <param1> 
