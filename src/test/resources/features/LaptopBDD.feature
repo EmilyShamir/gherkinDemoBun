@@ -1,6 +1,6 @@
 Feature: LaptopBDD
 #Emily comment3
-  Scenario: Laptop scenario b
+  Scenario: Laptop scenario b1
     Given there is a LAPTOP
     When the user modifies LAPTOP
     Then the LAPTOP is modified
@@ -14,7 +14,7 @@ Feature: LaptopBDD
         When the user modifies the KEYBOARD
         Then the KEYBOARD is modified
    
-    Scenario Outline: Laptop scenario e param1
+    Scenario Outline: Laptop scenario e param2
                               Given <param1> 
                               When  <param2>  
                               Then  <param3>  
