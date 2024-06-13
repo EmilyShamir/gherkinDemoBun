@@ -1,5 +1,5 @@
 Feature: 
-	Scenario Outline: Emily Scenario Outline1
+	Scenario Outline: Emily Scenario Outline2
 		Given <param1> 
 		When  <param2>  
 		Then  <param3>  
