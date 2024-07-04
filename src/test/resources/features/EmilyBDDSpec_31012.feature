@@ -3,7 +3,7 @@
 Feature: 
 @TSCID2356010
 	Scenario Outline: Emily Scenario Outline2
-		Given <param1> and blablabla
+		Given <param1> and blablabla2
 		When  <param2>  
 		Then  <param3>  
 
