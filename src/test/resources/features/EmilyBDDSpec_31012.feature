@@ -1,6 +1,6 @@
 Feature: 
 	Scenario Outline: Emily Scenario Outline2
-		Given <param1> 
+		Given <param1> and blabla
 		When  <param2>  
 		Then  <param3>  
 
