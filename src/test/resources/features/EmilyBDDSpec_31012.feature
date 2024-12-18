@@ -1,8 +1,6 @@
 #Auto generated Octane revision tag
-@BSPID33003REV0.0.1
 Feature: 
-@TSCID2356010
-	Scenario Outline: Emily Scenario Outline2
+	Scenario Outline: Emily Scenario Outline3
 		Given <param1> and blablabla2
 		When  <param2>  
 		Then  <param3>  
